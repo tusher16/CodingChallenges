@@ -27,5 +27,6 @@ def two_Sum_HT(nums, target):
 if __name__ == "__main__":
     nums = [2, 7, 11, 15]
     target = 9
+    
     print("Brute Force Approch: ",two_Sum_BF(nums, target))
     print("Hash Table Approch: ", two_Sum_HT(nums, target))
