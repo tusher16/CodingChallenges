@@ -1,7 +1,3 @@
-Certainly! Here's a text representation of the image for a `README.md`:
-
----
-
 # LeetCode - Arrays and Hashing
 
 ## 1.[Two Sum](https://leetcode.com/problems/two-sum/submissions/1065824850/)
