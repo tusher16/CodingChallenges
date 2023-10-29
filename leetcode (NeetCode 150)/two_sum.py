@@ -22,8 +22,7 @@ def two_sum_ht(nums_list: list[int], target_value: int) -> list[int]:
         potential_match = target_value - num
         if potential_match in numbers:
             return [numbers[potential_match], i]
-        else:
-            numbers[num] = i
+        numbers[num] = i
     return []
 
 
